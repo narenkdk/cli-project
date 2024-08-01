@@ -83,7 +83,14 @@ COLUMNS = (
     "email",
     "web",
 )
-
+#install git in your machine
+#git --version
+# create repository in github  
+ #git config --global user.name "Narendra Khadka"
+ #git config --global user.email "narenkdk@gmail.com"
+ #git add . 
+ #git commit -m "Finish cli project"
+ #git push origin 
 
 INPUT_STRING = """
 Enter the option:
